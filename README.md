@@ -1,5 +1,5 @@
 # commit-rules
-> Commit Rules for My repositories
+> Commit Rules for My Projects
 
 ## Prerequisite  
 ```
