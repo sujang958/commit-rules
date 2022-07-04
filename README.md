@@ -19,3 +19,4 @@ type(scope): content
 * reaf - refactoring
 * imprv - improving existing things
 * docs - behaving things related to documents
+* test - testing the codes or else
