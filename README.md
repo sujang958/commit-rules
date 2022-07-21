@@ -14,7 +14,7 @@ type(scope): content
 
 * feat - adding new features or something new
 * fix - fixing bugs
-* pkg - adding, updating or removing packages(modules) or such as configuring package manager
+* pkg - adding, updating or removing packages(modules) or configuring package manager
 * deploy - setting or changing the things related to deploying
 * reaf - refactoring
 * imprv - improving existing things
