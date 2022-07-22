@@ -8,7 +8,7 @@ type(scope): content
 - A scope is optional
 - A content length must be less than 50
 - A content must start with root verb
-- The type must be lower case
+- The type must be lowercase
 
 ### Types
 
