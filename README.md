@@ -1,22 +1,4 @@
 # commit-rules
 > Commit Rules for My Projects
 
-## Prerequisite  
-```
-type(scope): content
-```
-- A scope is optional
-- A content length must be less than 50
-- A content must start with root verb
-- The type must be lowercase
-
-### Types
-
-* feat - adding new features or something new
-* fix - fixing bugs
-* pkg - adding, updating or removing packages(modules) or configuring package manager
-* deploy - setting or changing the things related to deploying
-* reaf - refactoring
-* imprv - improving existing things
-* docs - behaving things related to documents
-* test - testing the codes or else
+I follow Gitmoji, but it can change depending on the situation
