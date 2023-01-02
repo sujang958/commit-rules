@@ -6,10 +6,11 @@
 ### Flag
 
 - feat: new features
-- fix; fixing bugs
+- fix: fixing bugs
 - ref: refactoring
 - perf: improving performances
 - docs: doing something related to documents
+- typo: correcting typos
 
 ### Scope
 
@@ -18,4 +19,4 @@ The scope is optional.
 ### Message
 
 Its length should be less than 50.
-Use present tenses.
+The verb must be a present tense.
