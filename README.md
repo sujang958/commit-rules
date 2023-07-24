@@ -11,6 +11,7 @@
 - perf: improving performances
 - docs: doing something related to documents
 - typo: correcting typos
+- conf: changing configurations
 
 ### Scope
 
