@@ -1,6 +1,8 @@
 # commit-rules
 > Commit Rules for My Projects
 
+### Format
+
 [flag](scope): Message
 
 ### Flag
