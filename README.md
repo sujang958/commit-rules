@@ -21,5 +21,5 @@ The scope is optional.
 
 ### Message
 
-Its length should be less than 50.
+Its length should be less than 70.
 The verb must be a present tense.
